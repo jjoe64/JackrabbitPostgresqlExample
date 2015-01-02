@@ -1,0 +1,8 @@
+derby.log
+.gradle
+build
+JackrabbitPostgresqlExample.iml
+.idea
+jackrabbit/workspaces
+jackrabbit/repository
+
